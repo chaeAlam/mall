@@ -1,0 +1,243 @@
+body {
+    margin: 0;
+}
+
+.container {
+    background-color: white;
+}
+
+a{
+    text-decoration: none;
+    color: #777;
+}
+
+a:visited{
+    color: #777;
+}
+
+.word>h1{
+    font-size: 17px;
+    margin: 0;
+    padding: 6px 0px 0px 17px;
+}
+
+.rudrp{
+    padding: 10.5px 0px 0px 16px;
+}
+
+.선{
+    width: 38px;
+    height: 1px;
+    background-color: black;
+}
+
+.Kategorie>h2{
+    font-size: 17px;
+    margin: 0;
+    color: #999999;
+    float: left;
+    margin-top: -35px;
+    margin-left: 60px;
+}
+
+.Kategorie>h3{
+    font-size: 17px;
+    margin: 0;
+    color: #999999;
+    float: left;
+    margin-top: -35px;
+    margin-left: 136px;
+}
+
+.menu>img{
+    width: 26px;
+}
+
+.menu{
+    margin-top: -35px;
+    margin-left: 319px;
+}
+
+.menu>img{
+    margin-left: 4.7px;
+}
+
+.vaner{
+    padding: 15.5px 0px 0px 13px;
+}
+
+.vaner>img{
+    width: 364px;
+}
+
+.adjustment{
+    overflow: hidden;
+}
+
+.ad{
+    padding: 9px 0px 0px 15px;
+}
+
+.ad_box{
+    width: 38px;
+    height: 24px;
+    border: 0.5px solid #999999;
+    border-radius: 27px;
+    display: flex;
+    justify-content: center;
+}
+
+.ad_box>img{
+    width: 11px;
+}
+
+.daily{
+    float: left;
+    margin-top: -26px;
+    margin-left: 63px;
+}
+
+.daily_box{
+    width: 47px;
+    height: 24px;
+    border: 0.5px solid #999999;
+    border-radius: 27px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: #999999;
+}
+
+.daily_box>p{
+    font-size: 10px;
+}
+
+.date{
+    float: left;
+    margin-top: -26px;
+    margin-left: 120px;
+}
+
+.travel{
+    float: left;
+    margin-top: -26px;
+    margin-left: 177px;
+}
+
+.work{
+    float: left;
+    margin-top: -26px;
+    margin-left: 234px;
+}
+
+.guest{
+    float: left;
+    margin-top: -26px;
+    margin-left: 291px;
+}
+
+.campus{
+    float: left;
+    margin-top: -26px;
+    margin-left: 348px;
+}
+
+.check{
+    padding: 17px 0px 0px 12px;
+    width: fit-content;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.check_box{
+    width: 17px;
+    height: 17px;
+    border: 1.5px solid #999999;
+    border-radius: 2px;
+}
+
+.check>p{
+    font-size: 10px;
+    color: #999999;
+}
+
+.check>h1{
+    font-size: 10px;
+    font-weight: 500;
+    margin: 0;
+    padding: 0px 0px 0px 189px;
+}
+
+.tpfh{
+    padding: 2px 0px 0px 4px;
+}
+
+.tpfhtjs{
+    width: 1px;
+    height: 14px;
+    background-color: #999999;
+}
+
+.check>h2{
+    font-size: 10px;
+    font-weight: 500;
+    color: #999999;
+    margin: 0;
+    padding: 0px 0px 0px 3px;
+}
+
+.grid_container{
+    position: relative;
+    width: fit-content;
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: 33.33% 33.33% 33.33%;
+    grid-template-rows: 200px 200px 200px 200px 200px 200px;
+    gap: 2px;
+    padding: 17px 0px 0px 0px;
+}
+
+.grid_img>img{
+    width: 130px;
+    height: 200px;
+}
+
+.grid_img2>img{
+    width: 129px;
+    height: 200px;
+}
+
+.bookmark{
+    position: absolute;
+    top: 3px;
+    right: 3px;
+}
+
+.nav_bar{
+    height: 59px;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 13.5px 17.63px 0px;
+}
+
+.icon_img{
+    width: 25.92px;
+    height: 25.81px;
+}
+
+.icon{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.icon>p{
+    font-size: 13px;
+    font-weight: 400;
+    margin: 0;
+    padding: 3.5px 0px 0px 0px;
+}
